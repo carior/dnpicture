@@ -12,8 +12,7 @@
       </view>
       <view class="iconfont iconsearch"></view>
     </view>
-      
-      <view class="home_tab_content">
+     <view class="home_tab_content">
           <view v-if="current === 0">
               <home-recommend></home-recommend>
           </view>
@@ -80,12 +79,12 @@ export default {
     // })
 
     // 3.自己封装的请求
-    this.request({
-      url: "https://service.picasso.adesk.com/v3/homepage/vertical"
-    })
-    .then(res => {
-      console.log(2, res)
-    })
+    // this.request({
+    //   url: "https://service.picasso.adesk.com/v3/homepage/vertical"
+    // })
+    // .then(res => {
+    //   console.log(2, res)
+    // })
   }
 }
 </script>
