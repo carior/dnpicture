@@ -7,6 +7,42 @@
 			}
 		},
 		{
+			"path": "pages/silder/index",
+			"style": {
+				"navigationBarTitleText": "滑块校验"
+			}
+		},
+		{
+			"path": "pages/videoPlay/index",
+			"style": {
+				"navigationBarTitleText": "视频播放"
+			}
+		},
+		{
+			"path": "pages/imgCategory/index",
+			"style": {
+				"navigationBarTitleText": "图片分类"
+			}
+		},
+		{
+			"path": "pages/demo/index",
+			"style": {
+				"navigationBarTitleText": "学习触屏事件"
+			}
+		},
+		{
+			"path": "pages/album/index",
+			"style": {
+				"navigationBarTitleText": "专辑详情"
+			}
+		},
+		{
+			"path": "pages/imgDetail/index",
+			"style": {
+				"navigationBarTitleText": "图片详情"
+			}
+		},
+		{
 			"path": "pages/horizontal/index",
 			"style": {
 				"navigationBarTitleText": "横屏"
@@ -32,10 +68,9 @@
 		}
 	],
 	"globalStyle": {
-		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "uni-app",
-		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8"
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "懂你找图",
+		"navigationBarBackgroundColor": "#000"
 	},
 	"tabBar": {
 		"color": "#8a8a8a",
