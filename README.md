@@ -47,6 +47,10 @@ b站上搜 “微信小程序 黑马程序员”
 
 [简书笔记地址](https://www.jianshu.com/p/3dec2cc2e30b)
 
+应用生命周期：uni-app 支持 onLaunch、onShow、onHide 等应用生命周期函数
+页面生命周期：uni-app 支持 onLoad、onShow、onReady 等生命周期函数
+组件生命周期：
+
 ```js
 <template>
   <view></view>
